@@ -1,4 +1,4 @@
-# Projeto-de-sistemas-orientados-a-objetos
+# Projeto de Sistemas Orientados a Objetos
 
 # A Equipe
 
