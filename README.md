@@ -23,9 +23,6 @@ Desenvolver uma **plataforma integrada e automatizada** para gerenciamento de ch
 ## 📦 Backlog do Produto
 - [Product Backlog](https://tar-stay-ec9.notion.site/Product-Backlog-1c25872c0a9281afa45cee6072936a2c?pvs=4)
 
-## 📅 Cronograma de Evolução do Projeto (visual)
-> (Inserir imagem do cronograma, board kanban ou gráfico de Gantt aqui, se aplicável)
-
 ## 📋 Tabela Descritiva das Sprints
 
 | Sprint                      | Período               | Entregas                                                                                      |
