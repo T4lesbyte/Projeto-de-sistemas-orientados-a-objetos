@@ -35,9 +35,6 @@ Desenvolver uma **plataforma integrada e automatizada** para gerenciamento de ch
 ## 🔗 Link para Documentação da Sprint
 - [Sprint Backlog](https://github.com/T4lesbyte/Sistec/blob/main/Sprint-Backlog.md)
 
-## 🎥 Link para Vídeo no YouTube do Incremento Entregue
-> *(Adicionar o link do vídeo assim que disponível)*
-
 ## 📚 Estrutura de Documentação
 
 - [Ciclo de Vida do Chamado](https://tar-stay-ec9.notion.site/Ciclo-de-Vida-de-um-Chamado-1c25872c0a9281bcb642ee620d554c95?pvs=)
