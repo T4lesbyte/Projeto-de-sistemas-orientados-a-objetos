@@ -8,14 +8,15 @@ Desenvolver uma **plataforma integrada e automatizada** para gerenciamento de ch
 
 ## 👨‍💻 A Equipe
 
-| Função          | Nome               | GitHub |
-|-----------------|--------------------|--------|
-| Product Owner   | Júlio Vasconcelos  | https://github.com/JulioPVasconcelos       |
-| Scrum Master    | Thales Cotrim      | https://github.com/T4lesbyte       |
-| Dev Team        | Samuel Parra       | https://github.com/samuel0021       |
-| Dev Team        | Jaqueline Barbosa  | https://github.com/JaqueRBarbosa       |
-| Dev Team        | Lucas Alves        | https://github.com/lucasleandro08       |
-| Dev Team        | Kauã Bonafé        | https://github.com/JaqueRBarbosa       |
+| Função        | Nome              | GitHub                                    |
+|---------------|-------------------|-------------------------------------------|
+| 👑 Product Owner | Júlio Vasconcelos | [JulioPVasconcelos](https://github.com/JulioPVasconcelos) |
+| 🧭 Scrum Master  | Thales Cotrim     | [T4lesbyte](https://github.com/T4lesbyte) |
+| 💻 Dev Team      | Samuel Parra      | [samuel0021](https://github.com/samuel0021) |
+| 💻 Dev Team      | Jaqueline Barbosa | [JaqueRBarbosa](https://github.com/JaqueRBarbosa) |
+| 💻 Dev Team      | Lucas Alves       | [lucasleandro08](https://github.com/lucasleandro08) |
+| 💻 Dev Team      | Kauã Bonafé       | [JaqueRBarbosa](https://github.com/JaqueRBarbosa) |
+
 
 
 ## 📦 Backlog do Produto
