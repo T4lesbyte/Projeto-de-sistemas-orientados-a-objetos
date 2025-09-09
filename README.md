@@ -23,11 +23,14 @@ Desenvolver uma **plataforma integrada e automatizada** para gerenciamento de ch
 ## 📦 Backlog do Produto
 - [Product Backlog](https://tar-stay-ec9.notion.site/Product-Backlog-1c25872c0a9281afa45cee6072936a2c?pvs=4)
 
-## 📋 Tabela Descritiva das Sprints
+## 📋 Escala de sprints
+| Sprint   | Datas           | Documentação |
+|----------|-----------------|--------------|
+| Sprint 1 | 19/08 à 25/08   |              |
+| Sprint 2 | 26/08 à 08/09   |              |
+| Sprint 3 | 09/09 à 15/09   |              |
+| Sprint 4 | 16/09 à 23/09   |              |
 
-| Sprint                      | Período               | Entregas                                                                                      |
-|----------------------------|------------------------|-----------------------------------------------------------------------------------------------|
-| Sprint - Arquitetura       | 03/04/2025 - 30/05/2025| - Definição da arquitetura<br>- Diagramas (Caso de Uso, Classe, Sequência, Implementação)<br>- Modelagem de Banco de Dados<br>- Arquitetura da Informação e Fluxos de Usuário<br>- Wireframes e protótipos de média e alta fidelidade |
 
 ## 🔗 Link para Documentação da Sprint
 - [Sprint Backlog](https://github.com/T4lesbyte/Sistec/blob/main/Sprint-Backlog.md)
