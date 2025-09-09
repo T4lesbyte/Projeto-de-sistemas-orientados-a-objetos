@@ -15,7 +15,7 @@ Desenvolver uma **plataforma integrada e automatizada** para gerenciamento de ch
 | 💻 Dev Team      | Samuel Parra      | [samuel0021](https://github.com/samuel0021) |
 | 💻 Dev Team      | Jaqueline Barbosa | [JaqueRBarbosa](https://github.com/JaqueRBarbosa) |
 | 💻 Dev Team      | Lucas Alves       | [lucasleandro08](https://github.com/lucasleandro08) |
-| 💻 Dev Team      | Kauã Bonafé       | [JaqueRBarbosa](https://github.com/JaqueRBarbosa) |
+| 💻 Dev Team      | Kauã Bonafé       |  |
 
 
 
