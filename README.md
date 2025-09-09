@@ -9,7 +9,7 @@ Desenvolver uma **plataforma integrada e automatizada** para gerenciamento de ch
 ## 👨‍💻 A Equipe
 
 **Product Owner**  
-- Júlio Vasconcelos
+| Júlio Vasconcelos | link |
 
 **Scrum Master**  
 - Thales Cotrim
