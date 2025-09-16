@@ -52,3 +52,11 @@ Desenvolver uma **plataforma integrada e automatizada** para gerenciamento de ch
 | 💻 Dev Team      | Lucas Alves       | [lucasleandro08](https://github.com/lucasleandro08) |
 | 💻 Dev Team      | Kauã Bonafé       |  |
 
+## 💻 Manual de instalação
+
+### 🔧 Requisitos
+
+- Git ([Download](https://git-scm.com/downloads))
+- Supabase ([Acesso]((https://supabase.com/database))
+- VScode ([Download](https://code.visualstudio.com/download))
+
