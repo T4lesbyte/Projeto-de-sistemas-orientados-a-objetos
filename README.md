@@ -6,6 +6,10 @@
 ## 🎯 Descrição do Desafio
 Desenvolver uma **plataforma integrada e automatizada** para gerenciamento de chamados de suporte técnico, que otimize processos, reduza custos e melhore a experiência do usuário.
 
+## 🥇 Solução
+O sistema desenvolvido permitirá que os funcionários abram chamados de suporte de forma eficiente e organizada. Após serem categorizados e analisados pela nossa IA, esses chamados serão direcionados aos técnicos da empresa, para que sejam atendidos e resolvidos com agilidade.
+O objetivo é simplificar e acelerar a comunicação entre os colaboradores e a equipe de T.I. da empresa contratante.
+
 ## 📦 Backlog do Produto
 - [Product Backlog](https://tar-stay-ec9.notion.site/Product-Backlog-1c25872c0a9281afa45cee6072936a2c?pvs=4)
 
