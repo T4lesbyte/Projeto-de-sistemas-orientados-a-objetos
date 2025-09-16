@@ -57,6 +57,6 @@ Desenvolver uma **plataforma integrada e automatizada** para gerenciamento de ch
 ### 🔧 Requisitos
 
 - Git ([Download](https://git-scm.com/downloads))
-- Supabase ([Acesso]((https://supabase.com/database))
+- Supabase ([Acesso](https://supabase.com/database))
 - VScode ([Download](https://code.visualstudio.com/download))
 
