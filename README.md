@@ -44,7 +44,7 @@ Desenvolver uma **plataforma integrada e automatizada** para gerenciamento de ch
 | 💻 Dev Team      | Samuel Parra      | [samuel0021](https://github.com/samuel0021) |
 | 💻 Dev Team      | Jaqueline Barbosa | [JaqueRBarbosa](https://github.com/JaqueRBarbosa) |
 | 💻 Dev Team      | Lucas Alves       | [lucasleandro08](https://github.com/lucasleandro08) |
-| 💻 Dev Team      | Kauã Bonafé       |  |
+| 💻 Dev Team      | Kauã Bonafé       | [kauamangini-pixel](https://github.com/kauamangini-pixel) |
 
 ## 🥇 Solução
 O sistema desenvolvido permitirá que os funcionários abram chamados de suporte de forma eficiente e organizada. Após serem categorizados e analisados pela nossa IA, esses chamados serão direcionados aos técnicos da empresa, para que sejam atendidos e resolvidos com agilidade.
