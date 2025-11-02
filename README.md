@@ -16,6 +16,9 @@ Desenvolver uma **plataforma integrada e automatizada** para gerenciamento de ch
 |📌 Sprint 2 | 26/08 à 08/09   | https://github.com/T4lesbyte/Projeto-de-sistemas-orientados-a-objetos/issues/2             |
 |📌 Sprint 3 | 09/09 à 15/09   | https://github.com/T4lesbyte/Projeto-de-sistemas-orientados-a-objetos/issues/3             |
 |📌 Sprint 4 | 16/09 à 23/09   | https://github.com/T4lesbyte/Projeto-de-sistemas-orientados-a-objetos/issues/4             |
+|📌 Sprint 5 | 24/09 à 30/09   | https://github.com/T4lesbyte/Projeto-de-sistemas-orientados-a-objetos/issues/5             |
+|📌 Sprint 6 | 01/10 à 07/09   | https://github.com/T4lesbyte/Projeto-de-sistemas-orientados-a-objetos/issues/6             |
+|📌 Sprint 7 | 08/10 à 14/10   | https://github.com/T4lesbyte/Projeto-de-sistemas-orientados-a-objetos/issues/7             |
 
 ## Tecnologias utilizadas
 
